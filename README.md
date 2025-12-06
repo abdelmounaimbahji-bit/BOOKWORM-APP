@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BOOKWORM-APP
 
 ## Project Idea
